@@ -1,32 +1,4 @@
-cd ![banner](https://raw.githubusercontent.com/HarishJangra/react-native-easy-starter/master/hero/1.png)
-
-<br />
-
-### A GOOD, up to date and easy to use starter and learning tool for beginners to intermediate. (IOS and Android ready)
-
-![](https://img.shields.io/github/stars/HarishJangra/react-native-easy-starter.svg) ![](https://img.shields.io/github/issues/HarishJangra/react-native-easy-starter.svg?style=flat-square)
-
-##### NEW
-
-- React-Native updated to [0.65](https://reactnative.dev/blog/2021/08/17/version-065)
-
-- React-Navigation updated to [v6](https://reactnavigation.org/versions)
-
-## WHY USE EASY STARTER ?
-
-- Always up-to-date React Native [0.65](<(https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#v0630)>) scaffolding.
-
-* [Easy-Peasy](https://github.com/ctrlplusb/easy-peasy) makes it easy to access the global state.
-
-- Use of [React Hooks](https://reactjs.org/docs/hooks-intro.html) optimizes the performance and increases reusability.
-
-* Provides a basic infrastructure, which can easily be used throughout the whole project.
-
-- [ApiSauce](https://github.com/infinitered/apisauce) Axios + standardized errors + request/response transforms.
-
-##
-
-**_Android & IOS setup is completed and tested for RN 0.63_**
+#Chat firebase Realtime
 
 ## Currently Includes
 
